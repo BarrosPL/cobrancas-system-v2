@@ -1,3 +1,21 @@
+📌 Sobre o Projeto
+
+Este projeto é um sistema inteligente de gestão de cobranças, desenvolvido para automatizar e otimizar processos de recuperação de crédito de empresas.
+
+A plataforma integra Inteligência Artificial e WhatsApp para realizar atendimentos automatizados, enviar notificações de cobrança e interagir com clientes de forma dinâmica e eficiente.
+
+O sistema permite:
+
+📊 Gerenciamento de clientes e cobranças
+
+🤖 Automação de atendimentos com IA
+
+💬 Integração com WhatsApp para envio de mensagens e negociações
+
+📈 Monitoramento e controle de cobranças
+
+⚡ Automatização de processos de recuperação de crédito
+
 🚀 Como Rodar o Sistema
 
 Este projeto consiste em um backend desenvolvido com FastAPI. Siga o passo a passo abaixo para executar o sistema em sua máquina local.
